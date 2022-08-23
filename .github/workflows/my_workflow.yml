@@ -30,5 +30,5 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          looking forword for good job,
-          feeling so good and happy.
+          echo looking forword for good job,
+          echo feeling so good and happy.
